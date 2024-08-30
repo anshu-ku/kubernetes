@@ -4,3 +4,4 @@ metadata:
   labels:
     kubernetes.io/metadata.name: nginx
   name: nginx
+  namespace: nginx
